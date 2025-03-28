@@ -5,7 +5,7 @@
 2. Install the `yesod` command line tool: `stack install yesod-bin --install-ghc`
 3. Build libraries: `stack build`
 
-Возможно, что для установки всех зависимотей нужно будет взять cabal, вместо stack. Например: `cabal install yesod yesod-bin yesod-static`
+Возможно, что для установки всех зависимоcтей нужно будет взять cabal, вместо stack. Например: `cabal install yesod yesod-bin yesod-static`
 
 If you have trouble, refer to the [Yesod Quickstart guide](https://www.yesodweb.com/page/quickstart) for additional detail.
 
